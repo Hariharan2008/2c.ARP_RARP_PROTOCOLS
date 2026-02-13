@@ -158,8 +158,8 @@ while True:
 
 ## OUPUT - ARP
 
-![alt text](<Screenshot 2026-02-13 181342.png>)
-![alt text](<Screenshot 2026-02-13 181417.png>)
+![alt text](arp1.png)
+![alt text](arp2.png)
 
 ## PROGRAM - RARP
 client_rarp.py
